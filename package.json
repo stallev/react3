@@ -1,0 +1,29 @@
+{
+  "name": "react3",
+  "version": "1.0.0",
+  "description": "manual congigured project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stallev/react3.git"
+  },
+  "author": "Alexandr Levshenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stallev/react3/issues"
+  },
+  "homepage": "https://github.com/stallev/react3#readme",
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-router": "^4.1.1"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "g": "^2.0.1",
+    "webpack": "^2.6.1"
+  }
+}
